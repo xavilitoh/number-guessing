@@ -20,7 +20,7 @@ To run this project, you need to have the following dependencies installed:
 2. Download the installer for your operating system (Windows, macOS, or Linux).
 3. Run the installer and follow the instructions to complete the installation.
 
-## Deployment Steps 🚀
+## How to Run 🚀
 
 To execute the program you should run the following command:
 ```bash
