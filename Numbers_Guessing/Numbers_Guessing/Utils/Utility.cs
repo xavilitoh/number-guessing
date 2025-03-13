@@ -12,7 +12,7 @@ public static class Utility
             DifficultyLevel.Easy => 10,
             DifficultyLevel.Medium => 5,
             DifficultyLevel.Hard => 3,
-            _ => throw new ArgumentOutOfRangeException(nameof(difficulty), difficulty, null)
+            _ => throw new ArgumentOutOfRangeException(nameof(difficulty), difficulty, "Not a valid difficulty level")
         };
     }
 

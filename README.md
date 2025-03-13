@@ -28,6 +28,26 @@ To execute the program you should run the following command:
   dotnet run
 ```
 
+## How to Play
+
+1. When the game starts, you will be asked to select a difficulty level:
+    - Easy (10 chances)
+    - Medium (5 chances)
+    - Hard (3 chances)
+
+2. The game will generate a secret number between 1 and 100.
+
+3. You must guess the secret number by entering your guesses.
+
+4. After each guess, you will receive feedback:
+    - If the number is correct, you win the game.
+    - If the number is incorrect, you will be told whether the secret number is higher or lower than your guess.
+
+5. You have a limited number of chances to guess the correct number, depending on the selected difficulty level.
+
+6. At the end of a round, you will be asked if you want to play again.
+
+Have fun playing the Number Guessing Game!
 
 
 This project is part of [Numbre Guessing Game](https://roadmap.sh/projects/number-guessing-game).
